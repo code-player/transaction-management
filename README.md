@@ -1,6 +1,6 @@
 # transaction-management
 A simple desktop application to manage transactions coded in java with MySQL as database
-This is a web desktop application coded in java for transaction management system.... The application is tested properly and it works well...
+This is a desktop application coded in java for transaction management system.... The application is tested properly and it works well...
 
 Xampp MySQL is used to manage the database for the application.
 
